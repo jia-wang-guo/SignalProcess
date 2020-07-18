@@ -60,6 +60,6 @@ cuVector是变量类型为cuFloatComplex的GPU复数向量。对于cuVector的�
 
 # 三、代码
 
-[Utility.h](./Utility.h)
+[Utility.h](./Utility/Utility.h)
 
 [cuvec_test.cu](./Utility/cuvec_test.cu)
